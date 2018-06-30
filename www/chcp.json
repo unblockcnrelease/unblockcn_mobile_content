@@ -1,0 +1,12 @@
+{
+    "name": "unblockcn",
+    "version": "v1.2.3",
+    "min_native_interface": 1,
+    "update": "resume",
+    "content_url": "https://raw.githubusercontent.com/unblockcnrelease/unblockcn_mobile_content/v1.2.3/www/",
+    "release": "v1.2.3",
+    "force_update_url": {
+        "ios": "http://www.unblockcn.com/download.php",
+        "android": "http://www.unblockcn.com/download.php"
+    }
+}

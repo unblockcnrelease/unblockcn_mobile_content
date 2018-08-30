@@ -1,9 +1,9 @@
 {
     "name": "unblockcn",
-    "version": "v1.1.6-ios",
-    "min_native_interface": 1,
+    "version": "v3.0.7-android",
+    "min_native_interface": 3,
     "update": "resume",
-    "content_url": "https://raw.githubusercontent.com/unblockcnrelease/unblockcn_mobile_content/v1.1.6-ios/www/",
-    "release": "v1.1.6-ios",
+    "content_url": "https://raw.githubusercontent.com/unblockcnrelease/unblockcn_mobile_content/v3.0.7-android/www/",
+    "release": "v3.0.7-android",
     "force_update_url": "http://www.unblockcn.com/download.php"
 }
